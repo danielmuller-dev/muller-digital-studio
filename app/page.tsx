@@ -31,7 +31,6 @@ export default function Home() {
         className="mb-8"
         priority
         />
-        <h1 className="text-xl font-bold text-blue-900">Müller Digital Studio</h1>
 
         <div className="space-x-6 hidden md:flex items-center">
           <a href="#servicos" className="hover:text-blue-900">
