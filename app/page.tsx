@@ -1,3 +1,4 @@
+import Image from "next/image"
 export default function Home() {
   return (
     <main>
@@ -22,6 +23,14 @@ export default function Home() {
 
       {/* Navbar */}
       <nav className="fixed top-0 left-0 w-full bg-white shadow-md py-4 px-8 flex justify-between items-center z-40">
+        <Image
+        src="/logo-muller.svg"
+        alt="Müller Digital Studio"
+        width={260}
+        height={60}
+        className="mb-8"
+        priority
+        />
         <h1 className="text-xl font-bold text-blue-900">Müller Digital Studio</h1>
 
         <div className="space-x-6 hidden md:flex items-center">

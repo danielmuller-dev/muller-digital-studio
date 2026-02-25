@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="140" viewBox="0 0 520 140">
+  <rect width="520" height="140" fill="none"/>
+
+  <!-- Texto principal -->
+  <text x="0" y="70"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="60"
+        font-weight="700"
+        letter-spacing="3"
+        fill="#0B2D6B">
+    MÜLLER
+  </text>
+
+  <!-- Linha elegante -->
+  <line x1="2" y1="85" x2="260" y2="85"
+        stroke="#0B2D6B"
+        stroke-width="3"/>
+
+  <!-- Subtítulo -->
+  <text x="0" y="115"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="22"
+        font-weight="500"
+        letter-spacing="6"
+        fill="#0B2D6B">
+    DIGITAL STUDIO
+  </text>
+</svg>
