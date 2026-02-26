@@ -33,10 +33,10 @@ export default function Home() {
         />
 
         <div className="space-x-6 hidden md:flex items-center">
-          <a href="#servicos" className="hover:text-blue-900">
+          <a href="#servicos" className="text-gray-600 hover:text-blue-900">
             Serviços
           </a>
-          <a href="#sobre" className="hover:text-blue-900">
+          <a href="#sobre" className="text-gray-600 hover:text-blue-900">
             Sobre
           </a>
 
