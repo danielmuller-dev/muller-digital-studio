@@ -95,6 +95,48 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Como Funciona */}
+      <section className="py-20 px-6 bg-gray-50 text-center">
+        <h2 className="text-3xl font-bold mb-12 text-blue-900">
+          Como Funciona
+        </h2>
+
+        <div className="grid md:grid-cols-4 gap-8 max-w-6xl mx-auto">
+          <div className="p-6">
+            <div className="text-4xl font-bold text-blue-900 mb-4">1</div>
+            <h3 className="font-semibold mb-2">Contato Inicial</h3>
+            <p className="text-gray-600">
+              Você entra em contato pelo Whatsapp e nos conta sobre o seu projeto.
+            </p>
+          </div>
+
+          <div className="p-6">
+          <div className="text-4xl font-bold text-blue-900 mb-4">2</div>
+          <h3 className="font-semibold mb-2">Planejamento</h3>
+          <p className="text-gray-600">
+            Analisamos suas necessidades e definimos a melhor solução digital.
+          </p>
+          </div>
+
+          <div className="p-6">
+            <div className="text-4xl font-bold text-blue-900 mb-4">3</div>
+            <h3 className="font-semibold mb-2">Desenvolvimento</h3>
+            <p className="text-gray-600">
+              Criamos seu projeto com design profissional e tecnologia moderna.
+            </p>
+          </div>
+
+          <div className="p-6">
+            <div className="text-4xl font-bold text-blue-900 mb-4">4</div>
+            <h3 className="font-semibold mb-2">Entrega & Suporte</h3>
+            <p className="text-gray-600">
+              Entregamos pronto para uso e oferecemos suporte estratégico.
+            </p>
+          </div>
+
+        </div>
+      </section>
+
       {/* Diferenciais */}
       <section className="py-20 px-6 bg-blue-900 text-white text-center">
         <h2 className="text-3xl font-bold mb-10">Por que escolher a Müller Digital Studio?</h2>
