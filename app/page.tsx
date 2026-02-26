@@ -103,32 +103,32 @@ export default function Home() {
 
         <div className="grid md:grid-cols-4 gap-8 max-w-6xl mx-auto">
           <div className="p-6">
-            <div className="text-4xl font-bold text-blue-900 mb-4">1</div>
-            <h3 className="font-semibold mb-2 text-blue-700">Contato Inicial</h3>
+            <div className="text-4xl font-bold text-gray-600 mb-4">1</div>
+            <h3 className="font-semibold mb-2 text-blue-900">Contato Inicial</h3>
             <p className="text-gray-600">
               Você entra em contato pelo Whatsapp e nos conta sobre o seu projeto.
             </p>
           </div>
 
           <div className="p-6">
-          <div className="text-4xl font-bold text-blue-900 mb-4">2</div>
-          <h3 className="font-semibold mb-2 text-blue-700">Planejamento</h3>
+          <div className="text-4xl font-bold text-gray-600 mb-4">2</div>
+          <h3 className="font-semibold mb-2 text-blue-900">Planejamento</h3>
           <p className="text-gray-600">
             Analisamos suas necessidades e definimos a melhor solução digital.
           </p>
           </div>
 
           <div className="p-6">
-            <div className="text-4xl font-bold text-blue-900 mb-4">3</div>
-            <h3 className="font-semibold mb-2 text-blue-700">Desenvolvimento</h3>
+            <div className="text-4xl font-bold text-gray-600 mb-4">3</div>
+            <h3 className="font-semibold mb-2 text-blue-900">Desenvolvimento</h3>
             <p className="text-gray-600">
               Criamos seu projeto com design profissional e tecnologia moderna.
             </p>
           </div>
 
           <div className="p-6">
-            <div className="text-4xl font-bold text-blue-900 mb-4">4</div>
-            <h3 className="font-semibold mb-2 text-blue-700">Entrega & Suporte</h3>
+            <div className="text-4xl font-bold text-gray-600 mb-4">4</div>
+            <h3 className="font-semibold mb-2 text-blue-900">Entrega & Suporte</h3>
             <p className="text-gray-600">
               Entregamos pronto para uso e oferecemos suporte estratégico.
             </p>
