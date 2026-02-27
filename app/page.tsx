@@ -71,6 +71,23 @@ export default function Home() {
         >
           Solicitar Orçamento
         </a>
+
+        <div className="mt-10 flex flex-wrap items-center justify-center gap-6 text-sm text-gray-200">
+          <span className="flex items-center gap-2">
+            <span className="h-2 w-2 rounded-full bg-green-400" />
+            Atendimento rápido no Whatsapp
+          </span>
+
+          <span className="flex items-center gap-2">
+            <span className="h-2 w-2 rounded-full bg-blue-300" />
+            Projetos responsivos (celular e PC)
+          </span>
+
+          <span className="flex items-center gap-2">
+            <span className="h-2 w-2 rounded-full bg-yellow-300" />
+            Entrega com suporte e orientação
+          </span>
+        </div>
       </section>
 
       {/* Serviços */}
