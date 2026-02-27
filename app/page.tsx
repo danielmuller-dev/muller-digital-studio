@@ -154,6 +154,37 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Prova Social */}
+      <section className="py-20 px-6 bg-white text-center">
+        <h2 className="text-3xl font-bold mb-4 text-blue-900">O que dizem sobre o atendimento</h2>
+        <p className="max-w-2xl mx-auto mb-12 text-gray-600">
+          Depoimentos curtos para mostrar como é a experiência de trabalhar com a Müller Digital Studio.
+        </p>
+
+        <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
+          <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
+            <p className="text-gray-700">
+              “Atendimento muito claro e rápido. Entendi todo o processo e fiquei seguro do início ao fim.”
+            </p>
+            <div className="mt-4 font-semibold text-blue-900">Cliente - Projeto de Identidade Visual</div>
+          </div>
+
+          <div className="p-6 border rounded-xl shadow-sm text-left">
+            <p className="text-gray-700">
+              “O site ficou limpo, profissional e funcionando muito bem no celular. Recomendo!”
+            </p>
+            <div className="mt-4 font-semibold text-blue-900">Cliente — Site Institucional</div>
+          </div>
+
+          <div className="p-6 border rounded-xl shadow-sm text-left">
+            <p className="text-gray-700">
+              “Gostei do suporte e das orientações. Não fiquei perdido e o resultado ficou acima do esperado.”
+            </p>
+            <div className="mt-4 font-semibold text-blue-900">Cliente — Landing Page</div>
+          </div>
+        </div>
+      </section>
+
       {/* Diferenciais */}
       <section className="py-20 px-6 bg-blue-900 text-white text-center">
         <h2 className="text-3xl font-bold mb-10">Por que escolher a Müller Digital Studio?</h2>
