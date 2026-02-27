@@ -54,14 +54,13 @@ export default function Home() {
       {/* Hero */}
       <section className="min-h-screen flex flex-col items-center justify-center bg-blue-900 text-white text-center px-6 pt-24">
         <h1 className="text-5xl md:text-6xl font-bold leading-tight">
-          Presença digital estratégica <br />
-          <span className="text-blue-300">para empresas que buscam crescimento</span>
+          Soluções Digitais <br />
+          <span className="text-blue-300">Estratégicas e Profissionais</span>
         </h1>
 
         <p className="mt-8 text-lg max-w-2xl text-gray-200">
-          Desenvolvemos identidades visiuais, sites e soluções digitais
-          modernas que fortalecem marcas e elevam o posicionamento
-          profissional no ambiente online.
+          Criamos sites, identidades visuais e aplicativos modernos para empresas que querem
+          crescer, se posicionar e vender mais no digital.
         </p>
 
         <a
